@@ -28,27 +28,27 @@
 
 歴史的仮名遣かつ平仮名大文字で入力します。
 
-![例: あをあをした](https://github.com/akirakubo/npiii-macdict/blob/docs/aoao-kana.png)
+![例: あをあをした](https://github.com/akirakubo/npiii-macdict/raw/master/docs/aoao-kana.png)
 
 ### 単語から調べる
 
-![例: 青青した](https://github.com/akirakubo/npiii-macdict/blob/docs/aoao-kanji.png)
+![例: 青青した](https://github.com/akirakubo/npiii-macdict/raw/master/docs/aoao-kanji.png)
 
 ### 検索しても見付からない場合
 (JIS X 0208の範囲内で)正字(旧字)を使用しないと見付からない場合があります。
 
-![例: 圖書館](https://github.com/akirakubo/npiii-macdict/blob/docs/toshokan.png)
+![例: 圖書館](https://github.com/akirakubo/npiii-macdict/raw/master/docs/toshokan.png)
 
 用言が見付からない場合、語幹のみを入力すると引掛る場合があります。
 
-![例: むづかし](https://github.com/akirakubo/npiii-macdict/blob/docs/muzukashi.png)
+![例: むづかし](https://github.com/akirakubo/npiii-macdict/raw/master/docs/muzukashi.png)
 
 
 ### 字音仮名遣
 
 元辞書の`np108_gg.txt`と`np108_gg_n.txt`とで重複する語に就いては、字音仮名遣を調べる事が出来ます。
 
-![例: てふてふ](https://github.com/akirakubo/npiii-macdict/blob/docs/chouchou.png)
+![例: てふてふ](https://github.com/akirakubo/npiii-macdict/raw/master/docs/chouchou.png)
 
 ## 辞書作成(めも)
 
