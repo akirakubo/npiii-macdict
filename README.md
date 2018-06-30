@@ -6,7 +6,7 @@
 
 ## インストール
 
-1. [Releases](https://github.com/akirakubo/releases)から入手したファイルを展開し、`np108_gg_mac.dictionary`を`~/Library/Dictionaries`に置く。
+1. [Releases](https://github.com/akirakubo/npiii-macdict/releases)から入手したファイルを展開し、`np108_gg_mac.dictionary`を`~/Library/Dictionaries`に置く。
 2. 辞書.appを起動し、辞書メニュー→環境設定...を選択。「npiii (マイルド字音版)」のチェックボックスをオンにする。
 
 ## アンインストール
